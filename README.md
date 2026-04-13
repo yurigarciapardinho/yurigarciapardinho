@@ -8,7 +8,7 @@
 Atualmente mergulhando nos fundamentos de Sistemas de Informação para construir uma base sólida em segurança. Minha experiência prévia no ensino técnico me deu a lógica necessária para entender como os sistemas são construídos, e agora foco em aprender como protegê-los.
 
 ### 🥊 Disciplina e Resiliência
-Fora códigos e cafés, sou entusiasta de lutas e praticante de **Muay Thai**. Acredito que a mentalidade de lutador — foco, estratégia e resiliência — é exatamente o que o mercado de Cybersecurity exige para enfrentar ameaças digitais.
+Fora códigos e cafés, sou entusiasta de lutas e praticante de **Muay Thai**. Acredito que a mentalidade de — foco, estratégia e resiliência — é exatamente o que o mercado exige para resolver seus problemas.
 
 ### 🛠️ Toolbox Técnica
 * **Lógica e Dev:** Conhecimentos adquiridos na ETEC em desenvolvimento de sistemas.
